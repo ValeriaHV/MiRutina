@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MiRutina" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/superficie_oscura</item>
+        <item name="colorPrimaryDark">@color/fondo_oscuro</item>
+        <item name="colorAccent">@color/amarillo_boton</item>
+        <item name="android:windowBackground">@color/fondo_oscuro</item>
+        <item name="android:textColorPrimary">@color/texto_blanco</item>
+        <item name="android:textColorSecondary">@color/texto_secundario</item>
+    </style>
+
+    <style name="Theme.MiRutina" parent="Base.Theme.MiRutina"/>
+</resources>

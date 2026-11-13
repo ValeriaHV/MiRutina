@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo_oscuro">#121212</color>
+    <color name="superficie_oscura">#1E1E1E</color>
+    <color name="amarillo_boton">#FFC107</color>
+    <color name="texto_blanco">#FFFFFF</color>
+    <color name="texto_secundario">#BDBDBD</color>
+    <color name="rojo_boton">#9b0707</color>
+
+</resources>

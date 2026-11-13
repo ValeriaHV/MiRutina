@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MiRutina </string>
+
+
+    <string name="titulo_app">MiRutina</string>
+    <string name="descripcion_app">Organiza tu día con hábitos simples y útiles para tu rutina diaria. </string>
+    <string name="descripcion_imagen">Imagen de MiRutina </string>
+    <string name="comenzar">Comenzar </string>
+    <string name="salir">Salir </string>
+
+
+    <string name="titulo_registro">Formulario de inscripción </string>
+    <string name="hint_nombre">Nombre completo </string>
+    <string name="hint_correo">Correo electrónico </string>
+    <string name="pregunta_actividad">¿Qué actividad quieres incorporar? </string>
+    <string name="actividad_caminar">Caminar </string>
+    <string name="actividad_estudiar">Estudiar </string>
+    <string name="actividad_leer">Leer </string>
+    <string name="actividad_ejercicio">Ejercicio </string>
+    <string name="titulo_preferencias">Selecciona tus preferencias </string>
+    <string name="recordatorio">Quiero recibir un recordatorio </string>
+    <string name="meta_semanal">Quiero una meta </string>
+    <string name="siguiente">Siguiente</string>
+    <string name="error_nombre">Escribe tu nombre. </string>
+    <string name="error_correo">Escribe un correo electrónico válido. </string>
+    <string name="error_actividad">Selecciona una actividad. </string>
+
+
+    <string name="titulo_confirmacion">¡Inscripción aceptada! </string>
+    <string name="introduccion_resumen">Este es el resumen de tu rutina: </string>
+    <string name="finalizar">Finalizar </string>
+    <string name="etiqueta_nombre">Nombre: %1$s </string>
+    <string name="etiqueta_correo">Correo: %1$s </string>
+    <string name="etiqueta_actividad">Actividad: %1$s </string>
+    <string name="etiqueta_recordatorio">Recordatorio: %1$s </string>
+    <string name="etiqueta_meta">Meta: %1$s días </string>
+    <string name="valor_si">Sí </string>
+    <string name="valor_no">No </string>
+    <string name="actividad_no_seleccionada">Sin actividad </string>
+
+    <string name="hint_dias_meta">Cantidad de días para tu meta </string>
+    <string name="error_dias_meta">Ingresa una cantidad de días entre 1 y 365. </string>
+    <string name="etiqueta_meta_dias">Meta: Sí, %1$d días </string>
+    <string name="finalizar_inicio">Finalizar y volver al inicio </string>
+
+</resources>
